@@ -1,0 +1,184 @@
+html{
+    background-image:url("http://cs-server.usc.edu:45678/hw/hw8/images/background.png");
+}
+body{
+    background-image:url("http://cs-server.usc.edu:45678/hw/hw8/images/background.png");
+}
+#search_box{
+    background-color: white;
+    width: 80%;
+    height: auto;
+    margin-top: 8px;
+}
+#search_title{
+    text-align: center;
+    font-family: sans-serif;
+}
+#search_header{
+    margin-top: 5px;
+}
+#input{
+    width: 100%;
+}
+#line{
+    background-color: white;
+    width: 80%;
+    height: 1px;
+}
+#data_area{
+    background-color: white;
+    width: 80%;
+    height: auto;
+    margin-top: 20px;
+}
+#favorite_list{
+    padding: 10px;
+}
+#dropdown_row{
+    padding-left: 30px;
+}
+#panel_head{
+    text-align: center;
+}
+#gray_line{
+    background-color: lightgray;
+    width: 97%;
+    height: 1px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#right_button_refresh{
+    float: right;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+#right_button_sideright{
+    float: right;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+#stock_details_title{
+    text-align: center;
+}
+#stock_table{
+    width: auto;
+    height: auto;
+}
+#high_charts{
+    width: auto;
+    height: auto;
+}
+#facebook_button{
+    padding-bottom: 3px;
+    padding-top: 3px;
+    padding-left: 9px;
+    padding-right: 9px;
+}
+#stock_table_button{
+    float: right;
+    margin-right: 20px;
+}
+.table{
+    font-size: 14px;
+}
+#stock_details_pills{
+    margin-left: 15px;
+}
+#arrow{
+    width: 12px;
+    height: 12px;
+}
+#price{
+    width: auto;
+    height: auto;
+}
+#sma{
+    width: auto;
+    height: auto;
+}
+#ema{
+    width: auto;
+    height: auto;
+}
+#stoch{
+    width: auto;
+    height: auto;
+}
+#rsi{
+    width: auto;
+    height: auto;
+}
+#adx{
+    width: auto;
+    height: auto;
+}
+#cci{
+    width: auto;
+    height: auto;
+}
+#bbands{
+    width: auto;
+    height: auto;
+}
+#macd{
+    width: auto;
+    height: auto;
+}
+#historical_charts{
+    width: auto;
+    height: auto;
+}
+.slidemodel{
+  transition: all linear 0.5s;
+  background-color: white;
+  height: auto;
+  width: 100%;
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.ng-hide {
+  left: -100%;
+  transition: all 0s;
+}
+#progress_bar{
+    margin-top: 20%;
+}
+#highstock{
+    height: auto;
+    width: auto;
+}
+#news_title{
+    font-size: large;
+}
+.green{
+    color: green;
+}
+.red{
+    color: red;
+}
+#right_refresh_switch{
+    float: right;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding-bottom: 2px;
+}
+#right_refresh_text{
+    float: right;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding-top: 3px;
+}
+#order_button{
+    height:5%;
+    width: 70%;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+.yellow_star{
+    color: gold;
+}
+#favorite_list_content{
+    overflow: auto;
+}

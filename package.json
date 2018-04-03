@@ -1,0 +1,16 @@
+{
+  "name": "Elastic-Beanstalk-StockSearch-App",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "latest",
+    "moment": "latest",
+    "moment-timezone": "latest",
+    "request": "latest",
+    "xml2js": "latest"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
